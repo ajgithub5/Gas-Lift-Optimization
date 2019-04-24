@@ -3,13 +3,6 @@
 # Author: 		Data Science Team												
 # Date:			16-NOV-2018													
 # Description:	
-#
-# Revision History:
-# ------------------------------------------------------------------------------
-# Date				Author			Change
-# ------------------------------------------------------------------------------
-# 16-NOV-2017		Data Science 	Initial check in with design time
-# 20-NOV-2017		Data Science	completed runtime and preprocessing
 ################################################################################
 rm(list=ls());
 gc();
